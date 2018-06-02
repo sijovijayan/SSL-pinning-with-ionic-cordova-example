@@ -12,4 +12,11 @@ http://uncaughterror.com/programming/ionic3/how-to-integrate-ssl-in-ionic-3-usin
 How to generate .cer file ( certificate key file )
 Watch this video https://www.youtube.com/watch?v=6nLK9wJPNRE
 
+You must place your certificate file on following location for android build
+
+platforms\android\assets
+or
+platforms\android\app\src\main\assets
+
+
 Thanks
