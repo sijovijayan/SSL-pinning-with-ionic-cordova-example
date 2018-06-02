@@ -14,9 +14,13 @@ Watch this video https://www.youtube.com/watch?v=6nLK9wJPNRE
 
 You must place your certificate file on following location for android build
 
-platforms\android\assets
-or
-platforms\android\app\src\main\assets
+
+ platforms\android\assets
+
+ OR
+
+ platforms\android\app\src\main\assets
+
 
 
 Thanks
