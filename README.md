@@ -9,4 +9,7 @@ http://uncaughterror.com/programming/ionic3/how-to-use-ssl-pinning-with-cordova-
 
 http://uncaughterror.com/programming/ionic3/how-to-integrate-ssl-in-ionic-3-using-cordova-plugin/
 
+How to generate .cer file ( certificate key file )
+Watch this video https://www.youtube.com/watch?v=6nLK9wJPNRE
+
 Thanks
